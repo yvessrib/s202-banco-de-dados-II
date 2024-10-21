@@ -1,5 +1,5 @@
 import pymongo
-from typing import Collection
+from typing import Collection   
 
 class Database:
     def __init__(self, database, collection):
